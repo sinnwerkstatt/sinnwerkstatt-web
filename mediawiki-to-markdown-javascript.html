@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>JavaScript PDF Text Formatter</title>
+<style>
+<!--
+.btn {
+	width: 300px;
+	height: 50px;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+
+function convertMediawikiToMarkdown() {
+
+	var mediawikiEl = document.getElementById('input-mediawiki');
+	var contertedText = mediawikiEl.value;
+
+    // convert "==Heading 2==" to "# Heading 2"
+	contertedText = contertedText.replace(/=====\s*(.*)\s*=====/g, "#### $1\n\n");
+	contertedText = contertedText.replace(/====\s*(.*)\s*====/g, "### $1\n\n");
+    contertedText = contertedText.replace(/===\s*(.*)\s*===/g, "## $1");
+    contertedText = contertedText.replace(/==\s*(.*)\s*==/g, "# $1");
+
+	// convert
+	// "[http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/ Decoupling HTML From CSS]"
+	// to
+	// "[Decoupling HTML From CSS](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)"
+    // '[^\s]*' matches the URL, '([^\]]*)' machtes everything else till the first closing brakcet ']'
+	contertedText = contertedText.replace(/\[([^\s]*)\s([^\]]*)\]/g, "[$2]($1)");
+
+	contertedText = contertedText.replace(/\*\*/g, "    *");
+
+
+	// show the converted text
+	var markdownEl = document.getElementById('result-markdown');
+	markdownEl.value = contertedText;
+}
+
+
+function removeRegex(removeInputId) {
+	
+	var textEl = document.getElementById('text');
+	var scrollTop = textEl.scrollTop;
+	var text = textEl.value;
+	var removeregexEl = document.getElementById(removeInputId);
+	var removeregex = removeregexEl.value;
+	
+	if (removeregex.length > 0) {
+		text = text.replace(new RegExp(removeregex,"gm"), '');
+	}
+	
+	textEl.value = text;
+	textEl.scrollTop = scrollTop;
+}
+
+//-->
+</script>
+
+</head>
+<body>
+
+	<h1>MediaWiki to Markdown Javascript Converter</h1>
+    <p>converts headings and list elements</p>
+
+    <label for="input-mediawiki">MediaWiki Code:</label><br/>
+	<textarea id="input-mediawiki" rows="20" cols="100"></textarea>
+	<br /><br />
+	<input type="button" value="Convert to Markdown" class="btn" onclick="convertMediawikiToMarkdown()" />
+	<br /><br />
+
+    <label for="result-markdown">Markdown converted Code:</label><br/>
+	<textarea id="result-markdown" rows="20" cols="100"></textarea>
+
+    <br/>
+	<span style="clean: both; float: right;">v0.1</span>
+
+</body>
+</html>
