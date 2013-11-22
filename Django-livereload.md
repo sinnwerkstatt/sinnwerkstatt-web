@@ -4,6 +4,7 @@ You can livereload Django templates, CSS and Javascript files in two steps.
 
 * Install [[Grunt]]
 * Configure Grunt's [watch task with livereload](https://github.com/gruntjs/grunt-contrib-watch#optionslivereload)
+
 ```javascript
 grunt.initConfig({
     ...
@@ -22,6 +23,7 @@ grunt.registerTask('default', [
     'watch' 
 ]);
 ```
+
 * Run ```grunt```
 
 # 2. Activate Livereload's browser extension.
