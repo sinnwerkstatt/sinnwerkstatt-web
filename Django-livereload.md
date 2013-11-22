@@ -35,4 +35,4 @@ grunt.registerTask('default', [
 That's it. Change your Django files and the opened website will be automatically refreshed.
 
 # Info
-Livereloading will only work if both Grunt is running and the browser extension is connected to the server started by Grunt.
+Livereloading will only work when both Grunt is running and the browser extension is connected to the server started by Grunt.
