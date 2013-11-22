@@ -7,7 +7,7 @@ You can livereload Django templates, CSS and Javascript files in two steps.
 
 ```javascript
 grunt.initConfig({
-    ...
+    // ...
     watch: {
         options: {
             livereload: true
@@ -15,10 +15,11 @@ grunt.initConfig({
         livereload: {
             files: ['**/*.html', '**/*.css', '**/*.js']
         }
-    },
+    }
+    // ...
 });
 grunt.registerTask('default', [
-    // add all tasks you need and watch
+    // add all tasks you need including watch
     'watch' 
 ]);
 ```
