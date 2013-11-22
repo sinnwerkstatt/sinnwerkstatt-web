@@ -26,7 +26,7 @@ grunt.registerTask('default', [
 
 * Run ```grunt```
 
-# 2. Activate Livereload's browser extension.
+# 2. Activate Livereload's browser extension
 
 * Install [Livereload](http://livereload.com/) [browser extensions](http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-): [Chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei), [Firefox, Safari](http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-)
 * Open your project in the browser and activate the extension
