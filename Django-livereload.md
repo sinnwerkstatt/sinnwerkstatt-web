@@ -2,7 +2,7 @@ You can livereload Django templates, CSS and Javascript files in two steps.
 
 # 1. Install and configure Grunt
 
-* Install [[Grunt]]
+* Install [Grunt](https://github.com/sinnwerkstatt/sinnwerkstatt-web/wiki/Grunt)
 * Configure Grunt's [watch task with livereload](https://github.com/gruntjs/grunt-contrib-watch#optionslivereload)
 
 ```javascript
