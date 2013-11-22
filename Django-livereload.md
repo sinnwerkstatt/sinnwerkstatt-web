@@ -13,8 +13,7 @@ grunt.initConfig({
             livereload: true
         },
         livereload: {
-            files: ['**/*.html', '**/*.css', '**/*.js'],
-            tasks: []
+            files: ['**/*.html', '**/*.css', '**/*.js']
         }
     },
 });
