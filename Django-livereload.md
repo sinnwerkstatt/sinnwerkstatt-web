@@ -36,3 +36,6 @@ That's it. Change your Django files and the opened website will be automatically
 
 # Info
 Livereloading will only work when both Grunt is running and the browser extension is connected to the server started by Grunt.
+
+# Python
+You can also use [Python LiveReload](http://livereload.readthedocs.org/).
