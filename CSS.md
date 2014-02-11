@@ -134,7 +134,7 @@ See [CSS Layout](CSS_Layout.md)
 * [semantic-ui](http://semantic-ui.com/) - Semantic empowers designers and developers by creating a language for sharing UI.
 
 # CSS Hacks
-See [[CSS Hacks]].
+See [CSS Hacks](CSS_Hacks.md).
 
 # Share
 * [Codepen - The New Embed Builder – Customize Every Aspect of Embedded Pens ](http://blog.codepen.io/2013/07/23/the-new-embed-builder-customize-every-aspect/)
