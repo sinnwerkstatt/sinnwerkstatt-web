@@ -21,7 +21,7 @@
 # Text
 
 ## Fonts
-See [[Fonts]]
+See [Fonts](Fonts.md)
 
 ## Typography
 * [Butterick’s Practical Typography](http://practicaltypography.com/)
@@ -33,10 +33,10 @@ See [[Fonts]]
 * [simptip](http://arashm.net/lab/simptip/) - a simple CSS tooltip made with Sass.
 
 # Colors
-See [[Colors]].
+See [Colors](Colors.md)
 
 # Layout
-See [[CSS Layout]].
+See [CSS Layout](CSS_Layout.md)
 
 # Styling
 
