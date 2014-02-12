@@ -39,3 +39,7 @@
 
 # Patterns
 * [Backbone Patterns](http://ricostacruz.com/backbone-patterns/)
+
+# Backbone Frameworks
+
+* [Marionette](Marionette.md)
