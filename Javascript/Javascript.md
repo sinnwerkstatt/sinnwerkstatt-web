@@ -16,7 +16,7 @@
 * [Maintainable JavaScript code](http://www.slideshare.net/nzakas/maintainable-javascript-2012)
 
 ## Javascript Development Workflow
-Siehe [[Web Development Workflow]]
+Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 
 ## Keyboard
 * [Mousetrap](http://craig.is/killing/mice) - A simple library for handling keyboard shortcuts in Javascript.
