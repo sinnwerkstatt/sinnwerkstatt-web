@@ -156,6 +156,8 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 
 ## Editors
 
+* [X-editable](http://vitalets.github.io/x-editable/) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
+
 ### Markdown
 * [https://github.com/chjj/marked marked]([Meteor]]) - a markdown parser and compiler. Built for speed.
 * [EpicEditor](http://epiceditor.com/) - an embeddable JavaScript Markdown Editor.
