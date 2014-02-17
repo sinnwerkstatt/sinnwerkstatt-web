@@ -93,6 +93,7 @@ See [CSS Layout](CSS_Layout.md)
 ## Loading
 * [SpinKit](http://tobiasahlin.com/spinkit/) - a collection of loading indicators animated with CSS.
 * [progre(c)ss](http://jh3y.github.io/progre-c-ss/) - pure css progress bars with minimal effort.
+* [Progress.js](http://usablica.github.io/progress.js/) - a themeable progress bar library for everything.
 
 # Footers
 * [Slide-out footer](http://tutorialzine.com/2013/08/slideout-footer-css/)
