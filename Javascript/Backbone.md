@@ -14,6 +14,10 @@
 * [Creating a RESTful API](http://addyosmani.github.io/backbone-fundamentals/#creating-the-back-end)
 * [Interacting with a server](http://addyosmani.github.io/backbone-fundamentals/#talking-to-the-server)
 
+## Django REST Framework
+
+* [Permissions & Authentication - django-rest-framework part 2 (Video)](https://godjango.com/43-permissions-authentication-django-rest-framework-part-2/)
+
 ## Django
 
 * [Django REST framework](http://www.django-rest-framework.org/)
