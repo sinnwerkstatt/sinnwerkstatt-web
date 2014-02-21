@@ -19,7 +19,7 @@ https://www.jetbrains.com/pycharm/ is a Python and Django IDE
 
 ## Django Debugging
 * Settings-> Python interpreters - add the virtualenv python.
-* [DJANGO_SETTINGS_MODULE](http://stackoverflow.com/a/14428951/2510374) = project.settings
+* In the (new) Django Debug Configuration: [DJANGO_SETTINGS_MODULE](http://stackoverflow.com/a/14428951/2510374) = project.settings
 
 ## Settings
 
