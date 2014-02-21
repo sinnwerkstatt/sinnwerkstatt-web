@@ -120,6 +120,7 @@ See [CSS Layout](CSS_Layout.md)
 * http://findicons.com/
 * http://thenounproject.com/
 * http://ikons.piotrkwiatkowski.co.uk/
+* https://github.com/parkerbennett/stackicons
 
 # Preprocessors
 * [LESS](http://lesscss.org/)
