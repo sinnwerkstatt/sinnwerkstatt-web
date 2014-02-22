@@ -150,7 +150,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 * [staterouter.js](https://github.com/aknuds1/staterouter.js) - simple JavaScript HTML5 routing library built on top of History.js.
 
 ## Loading
-* [RequireJS](http://www.requirejs.org/) - file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
+* [RequireJS](http://www.requirejs.org/) - file and e loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
     * [Five Helpful Tips When Using RequireJS](http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs)
 * [veinjs](https://github.com/israelidanny/veinjs) - Injects CSS into the document
 
@@ -209,6 +209,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 
 ## Modular Javascript
 * [Ender](http://ender.jit.su/) - the no-library library. Add JS libraries into a single JS file.
+* [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 
 ## Deploy
 * [Deploying JavaScript Applications](http://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
