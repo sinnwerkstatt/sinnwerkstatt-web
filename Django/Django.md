@@ -3,7 +3,7 @@
 [Django](https://www.djangoproject.com/) - a high-level Web framework that encourages rapid development and clean, pragmatic design.
 
 ## Django project
-* See [Django project](Django_email.md)
+* See [Django project](Django_project.md)
 
 ## Cheat Sheet
 * [Mercurytide Cheat Sheets](http://www.mercurytide.co.uk/news/article/django-15-cheat-sheet/) (Django 1.5)
