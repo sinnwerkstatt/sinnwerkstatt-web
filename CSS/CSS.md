@@ -44,8 +44,9 @@ See [CSS Layout](CSS_Layout.md)
 * http://stackoverflow.com/questions/11719019/css3-gradient-background
 
 ## Bubbles
+* http://codepen.io/ngeorgiev/pen/wdbnj
 * http://codepen.io/octavioamu/pen/eBkbH
-* [http://nicolasgallagher.com/pure-css-speech-bubbles/demo/](Pure CSS speech bubbles)
+* [Pure CSS speech bubbles](http://nicolasgallagher.com/pure-css-speech-bubbles/demo/)
     * The arrows of the bubbles with borders show darker borders (incorrect).
 
 
