@@ -1,5 +1,20 @@
 # Django Templates
 
+## Cookies
+
+### Server-side
+
+Read:
+
+* ``self.request.COOKIES.get('cookie_name')``
+
+### Client-side
+
+Set with [jquery.cookie](https://github.com/carhartl/jquery-cookie):
+
+* ``$.cookie('cookie_name', 'cookie_value');``
+
+
 ## Quality Guidelines
 
 ### Editor
