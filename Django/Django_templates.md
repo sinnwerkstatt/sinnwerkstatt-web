@@ -15,6 +15,11 @@ Set with [jquery.cookie](https://github.com/carhartl/jquery-cookie):
 * ``$.cookie('cookie_name', 'cookie_value');``
 
 
+## Comparison
+
+### String and Integer
+* ``{% if ìnt_value == str_value|add:0 %}``
+
 ## Quality Guidelines
 
 ### Editor
