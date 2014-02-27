@@ -29,6 +29,11 @@ The colors should be **referenced and communicated by name** (not by value).
 ### Image and Logos
 * Make sure that **all** logos and image are saved in separate files.
 
+### Icons
+* Well known icons (like heart, menu), should be done with a well known CSS/Font by the software developer. The designer should 
+    * TODO: Software devs should choose CSS/Font and make sure that the designers can use it.
+
+
 ### Borders, Shadows, etc
 e.g.
 * ```box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1)``` (default values). Optionally provide specific height, width and color values.
