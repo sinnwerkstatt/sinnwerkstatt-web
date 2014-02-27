@@ -117,6 +117,13 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 * [xCharts](http://tenxer.github.com/xcharts/) - building beautiful and custom data-driven chart visualizations for the web
 * [Path.js](http://andreaferretti.github.io/paths-js-demo/) - Generate SVG paths for geometric shapes
 
+
+## Images
+
+### Galleries
+
+* [nanoGALLERY](http://nanogallery.brisbois.fr/) - touch enabled, responsive, fast and it supports cloud storage. Featuring multi-level navigation in albums, lightbox, many hover effects on thumbnails, slideshow, fullscreen, pagination, image lazy load, themes, bootstrap compatibility, customizable, i18n, and pulling in Flickr/Picasa/Google+ photo albums among others.
+
 ## Text
 
 ### Autocomplete
