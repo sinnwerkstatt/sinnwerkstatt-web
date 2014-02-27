@@ -6,6 +6,10 @@ A list of practices for optimizing the workflow from design to software implemen
 
 ## Designer
 
+### Links
+
+* [Ink](http://ink.chrometaphore.com/) - A photoshop documentor plugin.
+
 ### Grid
 * Use the bootstrap grid for websites.
 
