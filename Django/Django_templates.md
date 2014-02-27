@@ -15,10 +15,12 @@ Set with [jquery.cookie](https://github.com/carhartl/jquery-cookie):
 * ``$.cookie('cookie_name', 'cookie_value');``
 
 
-## Comparison
+## Convert
 
-### String and Integer
-* ``{% if ìnt_value == str_value|add:0 %}``
+
+* String to Number: ``str_value|add:0``
+* Number to String: ``number_value|safe``
+
 
 ## Quality Guidelines
 
