@@ -43,7 +43,9 @@ e.g.
 * ```box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1)``` (default values). Optionally provide specific height, width and color values.
 
 ### Buttons
+
 * Needs agreement with the software devs - what values are needed.
+* Design for hover, click, disabled state.
 
 ### Lists
 * Sometimes there are designed icons for unordered list items. How exactly to share them to the developers?
