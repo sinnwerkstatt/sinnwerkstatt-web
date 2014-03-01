@@ -13,6 +13,7 @@
 * [RESTful Persistence](http://addyosmani.github.io/backbone-fundamentals/#restful-persistence)
 * [Creating a RESTful API](http://addyosmani.github.io/backbone-fundamentals/#creating-the-back-end)
 * [Interacting with a server](http://addyosmani.github.io/backbone-fundamentals/#talking-to-the-server)
+* [Backbone.sync](http://documentcloud.github.io/backbone/#Sync)
 
 ## Django REST Framework
 
