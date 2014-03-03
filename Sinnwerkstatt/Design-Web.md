@@ -32,6 +32,7 @@ The colors should be **referenced and communicated by name** (not by value).
 
 ### Image and Logos
 * Make sure that **all** logos and image are saved in separate files.
+* Use only optimized for the Web images: compression, less colors, transparency. Sprite?
 
 ### Icons
 * Well known icons (like heart, menu), should be done with a well known CSS/Font by the software developer. The designer should 
