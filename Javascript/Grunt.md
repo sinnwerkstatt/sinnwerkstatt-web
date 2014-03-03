@@ -54,6 +54,10 @@ Installing Grunt and gruntplugins:
 * Debug the Grunt plugin in [your IDE](PyCharm)
 * Read the [Grunt API](http://gruntjs.com/api/grunt)
 
+## Performance
+
+* [Supercharging your Gruntfile](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
+
 ## Workflow
 * [Advanced Grunt tooling](http://chrisawren.com/posts/Advanced-Grunt-tooling)
 * [More maintainable Gruntfiles](http://www.thomasboyt.com/2013/09/01/maintainable-grunt.html)
