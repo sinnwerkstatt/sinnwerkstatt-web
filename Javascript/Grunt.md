@@ -58,4 +58,11 @@ Installing Grunt and gruntplugins:
 * [Advanced Grunt tooling](http://chrisawren.com/posts/Advanced-Grunt-tooling)
 * [More maintainable Gruntfiles](http://www.thomasboyt.com/2013/09/01/maintainable-grunt.html)
 
+## Errors
+
+Error handling when using Grunt:
+
+### TypeError: 'undefined' is not a function
+* Make sure that all your javascripts end with a semi-colon ';'
+
 See [[Javascript]], [[Bower]]
