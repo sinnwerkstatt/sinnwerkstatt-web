@@ -77,6 +77,7 @@ See [CSS Layout](CSS_Layout.md)
 * [Nifty Modal Window Effects](http://tympanus.net/Development/ModalWindowEffects/) ([blog](http://tympanus.net/codrops/2013/06/25/nifty-modal-window-effects/))
 * [iosOverlay.js](http://taitems.github.io/iOS-Overlay/) - iOS-style overlays/notifications for the web.
 * [vex](http://github.hubspot.com/vex/docs/welcome/) - highly customizable dialogs.
+* [Remodal](http://vodkabears.github.io/remodal/) - Flat, responsive, lightweight, easy customizable modal window plugin with declarative state notation and hash tracking.
 
 # Animations and Effects
 * [Effekt.css](http://h5bp.github.io/Effeckt.css/dist/)
