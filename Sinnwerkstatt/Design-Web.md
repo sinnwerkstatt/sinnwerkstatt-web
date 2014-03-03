@@ -38,7 +38,7 @@ The colors should be **referenced and communicated by name** (not by value).
     * TODO: Software devs should choose CSS/Font and make sure that the designers can use it.
 * Use open source icons:
     * http://weloveiconfonts.com/
-    * http://entypo.com/
+    * http://entypo.com/ - Entypo is a set of 250+ carefully crafted pictograms. The package contains an icon font — OpenType, TrueType and @font-face — EPS, PDF and PSD files. All released for free under the license CC BY-SA 3.0.
 
 ### Borders, Shadows, etc
 e.g.
