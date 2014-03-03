@@ -36,7 +36,9 @@ The colors should be **referenced and communicated by name** (not by value).
 ### Icons
 * Well known icons (like heart, menu), should be done with a well known CSS/Font by the software developer. The designer should 
     * TODO: Software devs should choose CSS/Font and make sure that the designers can use it.
-
+* Use open source icons:
+    * http://weloveiconfonts.com/
+    * http://entypo.com/
 
 ### Borders, Shadows, etc
 e.g.
