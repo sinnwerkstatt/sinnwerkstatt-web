@@ -9,8 +9,8 @@ http://bower.io/ - a package manager for the web. It offers a generic, unopinion
 * [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
 
 ## Files
-* '''bower.json''' - name, version and dependencies.
-* '''.bowerrc''' - directory (for installing the packages), json
+* ``bower.json`` - name, version and dependencies.
+* ``.bowerrc`` - directory (for installing the packages), json
 
 ## Commands
 * bower --version
