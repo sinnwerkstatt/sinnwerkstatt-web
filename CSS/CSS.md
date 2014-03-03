@@ -92,6 +92,11 @@ See [CSS Layout](CSS_Layout.md)
 * [animo.js](http://labs.bigroomstudios.com/libraries/animo-js) - a powerful little tool for managing CSS animations. Stack animations, create cross-browser blurring, set callbacks on animation completion.
 * [Magic Move](https://github.com/maccman/jquery.magicmove) - animate DOM transitions.
 
+# Performance
+
+* [background v background color CSS Performance investigation](http://www.youtube.com/watch?v=wooovVDLUU8)
+
+
 ## Loading
 * [SpinKit](http://tobiasahlin.com/spinkit/) - a collection of loading indicators animated with CSS.
 * [progre(c)ss](http://jh3y.github.io/progre-c-ss/) - pure css progress bars with minimal effort.
