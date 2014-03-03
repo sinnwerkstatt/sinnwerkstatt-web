@@ -13,3 +13,7 @@ http://sass-lang.com/ - Sass is an extension of CSS3, adding nested rules, varia
 
 ## Mixins
 * [Sass mixins for general use](https://github.com/drublic/Sass-Mixins)
+
+## Sass coding guidelines
+* [Sass Style Guide](http://css-tricks.com/sass-style-guide/)
+* [Modular CSS naming conventions](http://thesassway.com/advanced/modular-css-naming-conventions)
