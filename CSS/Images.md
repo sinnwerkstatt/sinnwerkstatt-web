@@ -43,6 +43,7 @@ Here you can find images licensed under Creative Commons or Public Domain:
 
 ## Others
 * http://www.agiledesigners.com/
+* [Stock photos that don’t suck](https://medium.com/p/62ae4bcbe01b) - a list of places to find the best free stock photos.
 
 ## Videos
 
