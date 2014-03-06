@@ -125,6 +125,7 @@ No jQuery needed.
 * [CSS Pyramid](http://codepen.io/ngeorgiev/pen/wnchq) (height does not expand), [CSS Pyramid 2](http://codepen.io/oceatoon/pen/uwixl) (height expands automatically).
 
 # Icons
+* http://stackicons.com/
 * http://vector.us/
 * http://findicons.com/
 * http://thenounproject.com/
