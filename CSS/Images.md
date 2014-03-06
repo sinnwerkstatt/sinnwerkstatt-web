@@ -40,9 +40,10 @@ Here you can find images licensed under Creative Commons or Public Domain:
 * [Picjumbo](http://picjumbo.com/)
 
 
-### Old Images
+## Old Images
 
 * [New Old Stock](http://nos.twnsnd.co/) - awesome vintage photos from public archives. Completely free of known copyright restrictions.
+
 
 ## Icons
 * http://vector.us/
@@ -53,11 +54,13 @@ Here you can find images licensed under Creative Commons or Public Domain:
 ### Clip Arts
 * http://openclipart.org/
 
+
 ## Textures
 * http://www.cgtextures.com/
 * http://webtreats.mysitemyway.com/category/textures/
 * [Subtle Patterns](http://subtlepatterns.com/) - over 369, subtle patterns. Can be repeated on websites.
 * [The Pattern Library](http://thepatternlibrary.com/)
+
 
 ## Others
 * http://www.agiledesigners.com/
