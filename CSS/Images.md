@@ -2,6 +2,8 @@
 
 Here you can find images licensed under Creative Commons or Public Domain:
 
+## Creative Commons
+
 * [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&redirs=0&search=&fulltext=Search&ns0=1&ns6=1&ns14=1&title=Special%3ASearch&advanced=1&fulltext=Advanced+search)
 * [Flickr CC Search](https://secure.flickr.com/search/?q=&l=cc&ss=0&ct=0&mt=all&w=all&adv=1)
 * [FreeFoto](http://www.freefoto.com)
@@ -11,13 +13,6 @@ Here you can find images licensed under Creative Commons or Public Domain:
 * [Comp Fight](http://compfight.com/) (CC *) – find Creative Commons images to use on your blog or website.
 * [IM Free (requires attribution)](http://imcreator.com/free)
 * [Superfamous (requires attribution)](http://superfamous.com/)
-
-## Personal Websites
-
-* [SplitShire](http://splitshire.com/)
-* [Getrefe](http://getrefe.tumblr.com/)
-* [Picjumbo](http://picjumbo.com/)
-
 
 
 ## Public Domain
@@ -36,6 +31,14 @@ Here you can find images licensed under Creative Commons or Public Domain:
 * [Unplash](http://unsplash.com/) - Free (do whatever you want) hi-resolution photos. 10 new photos every 10 days.
 * [Little Visuals](http://littlevisuals.co/) - Another free email newsletter. Sends weekly batches of 7 gorgeous photos.
 * [Pic Jumbo](http://picjumbo.com/) - Big, searchable database of totally free to use photos.
+
+
+## Personal Websites
+
+* [SplitShire](http://splitshire.com/)
+* [Getrefe](http://getrefe.tumblr.com/)
+* [Picjumbo](http://picjumbo.com/)
+
 
 ### Old Images
 
