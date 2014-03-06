@@ -238,7 +238,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 * [Practicing Safe Script - dotJS 2013 - Alex Sexton](http://www.youtube.com/watch?v=glx9_5QdYfY&feature=youtu.be)
 
 ## Translation
-* [L20n](http://l20n.org/?utm_source=html5weekly&utm_medium=email) -  a developer-friendly framework that places language in the localizer's hands.
+* [L20n](http://l20n.org/) -  a developer-friendly framework that places language in the localizer's hands.
 
 ## Numbers
 
