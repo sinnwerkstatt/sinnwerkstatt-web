@@ -9,9 +9,23 @@ Here you can find images licensed under Creative Commons or Public Domain:
 * [Where the best designers go to find photos and graphics](http://www.sitebuilderreport.com/blog/where-the-best-designers-go-to-find-photos-and-graphics)
 * [Superfamous](http://superfamous.com/) (CC BY) - lots of geological, biological and aerial photography.
 * [Comp Fight](http://compfight.com/) (CC *) – find Creative Commons images to use on your blog or website.
+* [IM Free (requires attribution)](http://imcreator.com/free)
+* [Superfamous (requires attribution)](http://superfamous.com/)
+
+## Personal Websites
+
+* [SplitShire](http://splitshire.com/)
+* [Getrefe](http://getrefe.tumblr.com/)
+* [Picjumbo](http://picjumbo.com/)
+
+
 
 ## Public Domain
 
+* [Gratisography](http://www.gratisography.com/)
+* [Death to the Stock Photo](http://join.deathtothestockphoto.com/)
+* [Unsplash](http://unsplash.com/)
+* [Little Visuals](http://littlevisuals.co/)
 * http://www.public-domain-photos.com/
 * http://publicphoto.org/
 * http://www.public-domain-image.com/
@@ -40,21 +54,11 @@ Here you can find images licensed under Creative Commons or Public Domain:
 * http://www.cgtextures.com/
 * http://webtreats.mysitemyway.com/category/textures/
 * [Subtle Patterns](http://subtlepatterns.com/) - over 369, subtle patterns. Can be repeated on websites.
+* [The Pattern Library](http://thepatternlibrary.com/)
 
 ## Others
 * http://www.agiledesigners.com/
 * [Stock photos that don’t suck](https://medium.com/p/62ae4bcbe01b) - a list of places to find the best free stock photos
-* [Little Visuals] http://littlevisuals.co/
-* [Unsplash](http://unsplash.com/)
-* [Death to the Stock Photo](http://join.deathtothestockphoto.com/)
-* [New Old Stock](http://nos.twnsnd.co/)
-* [Superfamous (requires attribution)](http://superfamous.com/)
-* [Picjumbo](http://picjumbo.com/)
-* [The Pattern Library](http://thepatternlibrary.com/)
-* [Gratisography](http://www.gratisography.com/)
-* [Getrefe](http://getrefe.tumblr.com/)
-* [IM Free (requires attribution)](http://imcreator.com/free)
-* [SplitShire](http://splitshire.com/)
 
 ## Videos
 
