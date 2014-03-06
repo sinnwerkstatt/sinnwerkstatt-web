@@ -43,7 +43,18 @@ Here you can find images licensed under Creative Commons or Public Domain:
 
 ## Others
 * http://www.agiledesigners.com/
-* [Stock photos that don’t suck](https://medium.com/p/62ae4bcbe01b) - a list of places to find the best free stock photos.
+* [Stock photos that don’t suck](https://medium.com/p/62ae4bcbe01b) - a list of places to find the best free stock photos
+* [Little Visuals] http://littlevisuals.co/
+* [Unsplash](http://unsplash.com/)
+* [Death to the Stock Photo](http://join.deathtothestockphoto.com/)
+* [New Old Stock](http://nos.twnsnd.co/)
+* [Superfamous (requires attribution)](http://superfamous.com/)
+* [Picjumbo](http://picjumbo.com/)
+* [The Pattern Library](http://thepatternlibrary.com/)
+* [Gratisography](http://www.gratisography.com/)
+* [Getrefe](http://getrefe.tumblr.com/)
+* [IM Free (requires attribution)](http://imcreator.com/free)
+* [SplitShire](http://splitshire.com/)
 
 ## Videos
 
