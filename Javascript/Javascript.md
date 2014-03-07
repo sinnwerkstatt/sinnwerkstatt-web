@@ -167,6 +167,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 
 ### Inline Editing
 
+* [inline editing with contenteditable & jquery](http://codepen.io/gab/pen/dJmIE) (codepen)
 * [Promin](http://timseverien.nl/projects/promin/) - seemless input fields for forms.
 
 
