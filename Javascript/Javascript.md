@@ -163,7 +163,12 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 
 ## Editors
 
-* [X-editable](http://vitalets.github.io/x-editable/) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
+* [X-editable](http://vitalets.github.io/x-editable/) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
+
+### Inline Editing
+
+* [Promin](http://timseverien.nl/projects/promin/) - seemless input fields for forms.
+
 
 ### Markdown
 * [https://github.com/chjj/marked marked]([Meteor]]) - a markdown parser and compiler. Built for speed.
