@@ -135,6 +135,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 * [sifter.js](https://github.com/brianreavis/sifter.js) - client and server-side library (via UMD) for textually searching arrays and hashes of objects by property – or multiple properties. It's designed specifically for autocomplete.
 * [Tipue Search](http://www.tipue.com/search/) - a site search engine jQuery plugin. It's open source and responsive.
 * [http://redotheweb.com/2013/05/15/client-side-full-text-search-in-css.html](Client-side full-text search in CSS) - pure CSS search!
+* [Fuse.js](http://kiro.me/projects/fuse.html) - lightweight fuzzy-search.
 
 ### Fonts
 * [FlowType.JS](http://simplefocus.com/flowtype/) - responsive web typography at its finest: font-size and line-height based on element width
