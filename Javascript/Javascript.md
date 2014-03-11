@@ -26,6 +26,11 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 ## Numbers
 * [accounting.js is a tiny JavaScript library for number, money and currency formatting, with optional excel-style column rendering](http://josscrowcroft.github.io/accounting.js/)
 
+## Dates
+
+* [pickadate.js](http://amsul.ca/pickadate.js/) - the mobile-friendly, responsive, and lightweight jQuery date & time input picker.
+
+
 ## Templates
 [List of JavaScript templates from Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript_templates)
 
