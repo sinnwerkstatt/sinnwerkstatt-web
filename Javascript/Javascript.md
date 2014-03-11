@@ -22,6 +22,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 * [Mousetrap](http://craig.is/killing/mice) - A simple library for handling keyboard shortcuts in Javascript.
 * [QuestionMark.js](http://www.impressivewebs.com/demo-files/question-mark-js/) - a lightweight, cross-browser, modal window that displays shortcut keys for your app.
 * [Keypress](http://dmauro.github.io/Keypress/) - a robust Javascript library for capturing keyboard input.
+* [keymaster.js](https://github.com/madrobby/keymaster) - a simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies. ([Demo](http://madrobby.github.io/keymaster/))
 
 ## Numbers
 * [accounting.js is a tiny JavaScript library for number, money and currency formatting, with optional excel-style column rendering](http://josscrowcroft.github.io/accounting.js/)
