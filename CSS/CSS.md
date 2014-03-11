@@ -131,6 +131,7 @@ No jQuery needed.
 * http://thenounproject.com/
 * http://ikons.piotrkwiatkowski.co.uk/
 * https://github.com/parkerbennett/stackicons
+* https://useiconic.com/
 
 # Preprocessors
 * [LESS](http://lesscss.org/)
