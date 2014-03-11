@@ -252,6 +252,10 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 
 * [countUp.js](http://inorganik.github.io/countUp.js/) - quickly create animations that display numerical data in a more interesting way.
 
+## Debugging
+
+* [5 Javascript debugging tips you’ll start using today](http://berzniz.com/post/78260747646/5-javascript-debugging-tips-youll-start-using-today)
+
 ## Follow
 * http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/
 
