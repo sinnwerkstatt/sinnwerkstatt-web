@@ -172,6 +172,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 ## Editors
 
 * [X-editable](http://vitalets.github.io/x-editable/) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
+* [Hallo.js](http://hallojs.org/) - simple rich text editor (contentEditable) for jQuery UI.
 
 ### Inline Editing
 
