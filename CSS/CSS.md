@@ -132,6 +132,7 @@ No jQuery needed.
 * http://ikons.piotrkwiatkowski.co.uk/
 * https://github.com/parkerbennett/stackicons
 * https://useiconic.com/
+* [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 
 # Preprocessors
 * [LESS](http://lesscss.org/)
