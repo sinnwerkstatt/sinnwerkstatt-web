@@ -91,6 +91,7 @@ See [CSS Layout](CSS_Layout.md)
 * [Sliding Triple View Layout](http://tympanus.net/Development/TripleViewLayout/) - ([Site](http://tympanus.net/codrops/2013/09/05/sliding-horizontal-layout/))
 * [animo.js](http://labs.bigroomstudios.com/libraries/animo-js) - a powerful little tool for managing CSS animations. Stack animations, create cross-browser blurring, set callbacks on animation completion.
 * [Magic Move](https://github.com/maccman/jquery.magicmove) - animate DOM transitions.
+* [MixitUp](https://mixitup.kunkalabs.com/) - a Filter & Sort Plugin.
 
 # Performance
 
