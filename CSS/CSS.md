@@ -106,6 +106,7 @@ See [CSS Layout](CSS_Layout.md)
 * [nanobar.js](http://nanobar.micronube.com/) - very very lighweight progress bars (~725bytes gzipped).
 No jQuery needed.
 * [Loading](http://jxnblk.github.io/loading/) - this could take a while, SVG.
+* [Creative Loading Effects](http://tympanus.net/Development/CreativeLoadingEffects/) - Loading animations don't have to be restricted to a tiny indicator. Here is some inspiration for some creative loading effects.
 
 # Footers
 * [Slide-out footer](http://tutorialzine.com/2013/08/slideout-footer-css/)
