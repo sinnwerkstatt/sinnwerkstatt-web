@@ -104,6 +104,7 @@ See [CSS Layout](CSS_Layout.md)
 * [Progress.js](http://usablica.github.io/progress.js/) - a themeable progress bar library for everything.
 * [nanobar.js](http://nanobar.micronube.com/) - very very lighweight progress bars (~725bytes gzipped).
 No jQuery needed.
+* [Loading](http://jxnblk.github.io/loading/) - this could take a while, SVG.
 
 # Footers
 * [Slide-out footer](http://tutorialzine.com/2013/08/slideout-footer-css/)
