@@ -72,6 +72,7 @@ See [CSS Layout](CSS_Layout.md)
 * [Grid Forms](http://kumailht.com/gridforms/) - designed for use in applications that require lots of data to be entered regularly. [Demo](http://kumailht.com/gridforms/example.html)
 * [Select2](http://ivaynberg.github.io/select2/) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/) - creative effects for loading buttons.
+* [Creative Button Styles](http://tympanus.net/Development/CreativeButtons/) - modern and subtle styles & effects for buttons (hover and click).
 
 # Modal
 * [CSS-Modal](http://drublic.github.io/css-modal/) - Modals built out of pure CSS.
