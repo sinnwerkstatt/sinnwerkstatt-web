@@ -95,6 +95,7 @@ See [CSS Layout](CSS_Layout.md)
 * [Magic Move](https://github.com/maccman/jquery.magicmove) - animate DOM transitions.
 * [MixitUp](https://mixitup.kunkalabs.com/) - a Filter & Sort Plugin.
 * [SVG Drawing Animation](http://tympanus.net/Development/SVGDrawingAnimation/index2.html) - Mockup drawing animation with website fade-in.
+* [Item Transition Inspiration](http://tympanus.net/Development/ItemTransitions/index.html) - Item Transition Inspiration.
 
 # Performance
 
