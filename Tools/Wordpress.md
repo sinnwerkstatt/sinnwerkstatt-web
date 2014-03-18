@@ -1,19 +1,5 @@
 # Wordpress
 
-## Strato Installation
-define('DB_HOST', 'rdbms.strato.de');    // 99% Chance, dass du hier nichts ändern musst.
-
-If not working:
-
-* Open phpMyAdmin by clicking on Datenbank-Verwaltung
-* On right is "Database server" with  ```User: <user-name>@<db-host>```. Try with exaclty this ```<db-host>```
-* Then try again with ```rdbms.strato.de```
-
-## Deploy
-* Copy files with [* Import the database
-    * Change "localhost" to "official_url" (HELP! How to automate this?)
-* If using Permalinks, recreate the .htaccess
-
 ### Deployed Wordpress Plugins
 * [Chap Secure Login](http://wordpress.org/plugins/chap-secure-login/) - Do not show password, during login, on an insecure channel (without SSL). Use a SHA-256 hash algorithm.
 * [WP Security](http://wordpress.org/plugins/better-wp-security/) - various security options, makes backups too.
@@ -31,6 +17,10 @@ If not working:
 * [Solid Code Theme Editor](https://wordpress.org/extend/plugins/solid-code-theme-editor/) - edit ALL theme files
 * [W3 Total Cache](http://wordpress.org/extend/plugins/w3-total-cache/) - for caching (performance)
 * [XCloner - Backup and Restore](https://wordpress.org/extend/plugins/xcloner-backup-and-restore/) - schedule backups with cron jobs
+
+## Themes
+
+* http://roots.io/
 
 ## Publishing
 * [WP to Twitter](https://wordpress.org/plugins/wp-to-twitter/)
@@ -62,6 +52,22 @@ If not working:
 * [Bootstrap](http://twitter.github.com/bootstrap/) - Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 * [WordPress Twitter Bootstrap CSS](https://wordpress.org/extend/plugins/wordpress-bootstrap-css/)
 * [Extended Walker class for use with the Twitter Bootstrap toolkit Dropdown menus in Wordpress](https://gist.github.com/johnmegahan/1597994)
+
+
+## Strato Installation
+define('DB_HOST', 'rdbms.strato.de');    // 99% Chance, dass du hier nichts ändern musst.
+
+If not working:
+
+* Open phpMyAdmin by clicking on Datenbank-Verwaltung
+* On right is "Database server" with  ```User: <user-name>@<db-host>```. Try with exaclty this ```<db-host>```
+* Then try again with ```rdbms.strato.de```
+
+## Deploy
+* Copy files with [* Import the database
+    * Change "localhost" to "official_url" (HELP! How to automate this?)
+* If using Permalinks, recreate the .htaccess
+
 
 ## Others
 * [Add strong tag to the blog description.](http://stackoverflow.com/questions/4502086/is-there-a-way-of-adding-strong-tags-in-wordpresss-description-tagline-area) - change your header file accordingly.
