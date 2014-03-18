@@ -16,7 +16,7 @@
 ## Use in existing Grunt project
 * **npm install**
     * read all the module dependencies from package.json and install them from npm software repository into the local folder node_modules.
-* **bower install** (optionally)
+* **bower install** (optionally, see [Bower](Bower.md))
     * read all dependencies from bower.json and install them from the bower repository into the folder bower_components.
 * **grunt**
     * runs the default registered task in Gruntfile.js.
