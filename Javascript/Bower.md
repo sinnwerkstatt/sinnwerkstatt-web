@@ -13,17 +13,17 @@ http://bower.io/ - a package manager for the web. It offers a generic, unopinion
 * ``.bowerrc`` - directory (for installing the packages), json
 
 ## Commands
-* bower --version
-* bower help
-* bower search <package>
-* bower info <package>
-* **bower install**
+* ``bower --version``
+* ``bower help``
+* ``bower search <package>``
+* ``bower info <package>``
+* ``bower install``
     * installs the packages defined in the bower.json file.
-* **bower install <package>**
-* **bower install <package> --save**
+* ``bower install <package>``
+* ``bower install <package> --save``
     * installs the packages and adds it to the bower.json with version "latest"
-* bower install <package>#1.2.0
-* bower uninstall <package>
+* ``bower install <package>#1.2.0``
+* ``bower uninstall <package>``
 
 ## Components
 * [Bower components](http://sindresorhus.com/bower-components/)
