@@ -9,29 +9,29 @@
 
 ### Install Grunt
 * [Getting Started with Grunt](http://gruntjs.com/getting-started), [How to install grunt and how to built script with it](http://stackoverflow.com/a/15712530/2510374)
-    * cd your_project
-    * npm install -g grunt-cli
-    * npm install grunt --save-dev
+    * ``cd your_project``
+    * ``npm install -g grunt-cli``
+    * ``npm install grunt --save-dev``
 
 ## Use in existing Grunt project
-* **npm install**
+* ``npm install``
     * read all the module dependencies from package.json and install them from npm software repository into the local folder node_modules.
-* **bower install** (optionally, see [Bower](Bower.md))
+* ``bower install`` (optionally, see [Bower](Bower.md))
     * read all dependencies from bower.json and install them from the bower repository into the folder bower_components.
-* **grunt**
+* ``grunt``
     * runs the default registered task in Gruntfile.js.
 
 
 Installing Grunt and gruntplugins:
-* npm install <module> --save-dev
+* ``npm install <module> --save-dev``
     * installs the module locally and adds it to the devDependencies section of package.json, using a tilde version range
 
 ## Structure
-* '''package.json''' - contains various metadata about an Node Packaged Modules. Project identification and description, project's dependencies, ...
+* ``package.json`` - contains various metadata about an Node Packaged Modules. Project identification and description, project's dependencies, ...
     * dependencies field is used to list all the dependencies of your project that are available on npm
     * devDependencies are dependencies not required for normal operation, but required/recommended if you want to patch or modify the project. E.g. testing framework
     * [package.json - an interactive guide](http://package.json.nodejitsu.com/)
-* '''Gruntfile.js''' - defines, loads and configures Grunt tasks.
+* ``Gruntfile.js`` - defines, loads and configures Grunt tasks.
     * read a good explanation of a [Sample Gruntfile](http://gruntjs.com/sample-gruntfile)
 
 ## Grunt plugins
