@@ -138,8 +138,12 @@ No jQuery needed.
 * http://thenounproject.com/
 * http://ikons.piotrkwiatkowski.co.uk/
 * https://github.com/parkerbennett/stackicons
-* https://useiconic.com/
+* https://useiconic.com/ - paid!
+
+## SVG Icons
+
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
+
 
 # Preprocessors
 * [LESS](http://lesscss.org/)
