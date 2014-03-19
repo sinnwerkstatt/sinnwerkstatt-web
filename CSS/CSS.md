@@ -135,6 +135,7 @@ No jQuery needed.
 * [IcoMoon](http://icomoon.io/app/#/select) - Icon Font Generator
 * [Fontello](http://fontello.com/) - Icon Fonts Generator
 * [Stackicons](http://stackicons.com/) - icon fonts for the web, designed to do more — with multiple button shapes and a unique “multi-color” option. The Stackicons-Social font and Sass-based construction kit are free and open source.
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/) - the iconic font designed for Bootstrap.
 * http://vector.us/
 * http://findicons.com/
 * http://thenounproject.com/
