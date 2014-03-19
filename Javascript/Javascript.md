@@ -29,6 +29,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 
 ## Dates
 
+* [Moment.js](http://momentjs.com/) - a javascript date library for parsing, validating, manipulating, and formatting dates.
 * [pickadate.js](http://amsul.ca/pickadate.js/) - the mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 
 
