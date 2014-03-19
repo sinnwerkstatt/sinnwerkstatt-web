@@ -132,7 +132,9 @@ No jQuery needed.
 * [CSS Pyramid](http://codepen.io/ngeorgiev/pen/wnchq) (height does not expand), [CSS Pyramid 2](http://codepen.io/oceatoon/pen/uwixl) (height expands automatically).
 
 # Icons
-* http://stackicons.com/
+* [IcoMoon](http://icomoon.io/app/#/select) - Icon Font Generator
+* [Fontello](http://fontello.com/) - Icon Fonts Generator
+* [Stackicons](http://stackicons.com/) - icon fonts for the web, designed to do more — with multiple button shapes and a unique “multi-color” option. The Stackicons-Social font and Sass-based construction kit are free and open source.
 * http://vector.us/
 * http://findicons.com/
 * http://thenounproject.com/
