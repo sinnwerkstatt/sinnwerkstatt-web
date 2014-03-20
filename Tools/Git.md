@@ -53,6 +53,7 @@ Here are described the steps to use Git under Windows. Feel free to improve the 
 
 ## Cheat Sheet
 * [Git-Cheat-Sheet.pdf](https://github.com/AlexZeitler/gitcheatsheet/blob/master/gitcheatsheet.pdf?raw=true) ([Source](https://github.com/AlexZeitler/gitcheatsheet))
+* [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html) - interactive.
 
 ## Workflow
 * http://scottchacon.com/2011/08/31/github-flow.html
