@@ -38,6 +38,7 @@ The colors should be **referenced and communicated by name** (not by value).
 * Well known icons (like heart, menu), should be done with a well known CSS/Font by the software developer. The designer should 
     * TODO: Software devs should choose CSS/Font and make sure that the designers can use it.
 * Use open source icons:
+    * See first here: https://github.com/sinnwerkstatt/sinnwerkstatt-web/blob/master/CSS/CSS.md#icons
     * http://weloveiconfonts.com/
     * http://entypo.com/ - Entypo is a set of 250+ carefully crafted pictograms. The package contains an icon font — OpenType, TrueType and @font-face — EPS, PDF and PSD files. All released for free under the license CC BY-SA 3.0.
 
