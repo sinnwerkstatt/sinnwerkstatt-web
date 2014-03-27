@@ -148,6 +148,12 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 ### Fonts
 * [FlowType.JS](http://simplefocus.com/flowtype/) - responsive web typography at its finest: font-size and line-height based on element width
 
+## Widgets
+
+### Sliders
+
+* [noUiSlider](http://refreshless.com/nouislider/) - a range slider without bloat. It offers a ton off features, and it is as small, lightweight and minimal as possible, mobile too.
+
 ## Frameworks
 * AngularJS - JavaScript MVW Framework
 * [Bone.io](http://bone.io/) - lightweight framework for building high performance Realtime Single Page HTML5 Apps
