@@ -21,7 +21,7 @@
 # Text
 
 ## Fonts
-See [Fonts](Fonts.md)
+See [Fonts](../Fonts/Fonts.md)
 
 ## Typography
 * [Butterick’s Practical Typography](http://practicaltypography.com/)
