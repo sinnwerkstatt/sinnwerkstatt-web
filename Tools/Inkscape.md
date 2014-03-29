@@ -4,8 +4,8 @@ http://www.inkscape.org
 
 ## Fonts
 
-### Install fonts
-
+* [Install fonts](http://wiki.inkscape.org/wiki/index.php/Installing_fonts)
+  * Copy ``.ttf`` file in ``/usr/share/fonts/truetype``, ``sudo chmod 755`` and run ``fc-cache``
 
 
 ## Text
