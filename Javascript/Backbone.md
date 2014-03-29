@@ -3,6 +3,7 @@
 # Learn
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) - open source book by Addy Osmani.
 * [Backbone Tutorials](http://backbonetutorials.com/) - a collection of tutorials written by Thomas Davis.
+* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/) - a ranty, opinionated series of easily digestible tidbits.
 
 # Playground
 * [JSFiddle](http://jsfiddle.net/jnf8B/), [JSBin](http://jsbin.com/iwiwox/922/edit)
