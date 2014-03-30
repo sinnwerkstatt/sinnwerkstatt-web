@@ -97,6 +97,7 @@ See [CSS Layout](CSS_Layout.md)
 * [SVG Drawing Animation](http://tympanus.net/Development/SVGDrawingAnimation/index2.html) - Mockup drawing animation with website fade-in.
 * [Item Transition Inspiration](http://tympanus.net/Development/ItemTransitions/index.html) - Item Transition Inspiration.
 * [20 Incredible Mobile UI Animations in GIFs](http://thedesigninspiration.com/articles/20-incredible-mobile-ui-animations-in-gifs/)
+* [Playing with CSS3 Animations](http://designmodo.com/css3-animations/) - [Demo](http://designmodo.com/demo/css3animations/)
 
 # Performance
 
