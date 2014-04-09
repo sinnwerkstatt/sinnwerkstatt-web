@@ -27,11 +27,6 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 ## Numbers
 * [accounting.js is a tiny JavaScript library for number, money and currency formatting, with optional excel-style column rendering](http://josscrowcroft.github.io/accounting.js/)
 
-## Dates
-
-* [Moment.js](http://momentjs.com/) - a javascript date library for parsing, validating, manipulating, and formatting dates.
-* [pickadate.js](http://amsul.ca/pickadate.js/) - the mobile-friendly, responsive, and lightweight jQuery date & time input picker.
-
 
 ## Templates
 [List of JavaScript templates from Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript_templates)
@@ -104,6 +99,12 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 
 * [CLNDR.js](http://kylestetz.github.io/CLNDR/) - a jQuery Calendar Plugin.
 * [Bootstrap Calendar](http://bootstrap-calendar.azurewebsites.net/) - a full view calendar based on Twitter Bootstrap, see in [GitHub](https://github.com/Serhioromano/bootstrap-calendar).
+
+## Dates
+
+* [Moment.js](http://momentjs.com/) - a javascript date library for parsing, validating, manipulating, and formatting dates.
+* [pickadate.js](http://amsul.ca/pickadate.js/) - the mobile-friendly, responsive, and lightweight jQuery date & time input picker.
+* [jquery-timepicker](https://github.com/jonthornton/jquery-timepicker) - a javascript timepicker plugin for jQuery inspired by Google Calendar ([See Demos](http://jonthornton.github.io/jquery-timepicker/)).
 
 ### Events
 * [Radio.js](https://github.com/uxder/Radio) - chainable, dependency free Publish/Subscribe. ([Docu](http://radio.uxder.com/documentation.html))
