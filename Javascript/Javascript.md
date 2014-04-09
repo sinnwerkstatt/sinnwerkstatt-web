@@ -103,6 +103,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 ### Calender
 
 * [CLNDR.js](http://kylestetz.github.io/CLNDR/) - a jQuery Calendar Plugin.
+* [Bootstrap Calendar](http://bootstrap-calendar.azurewebsites.net/) - a full view calendar based on Twitter Bootstrap, see in [GitHub](https://github.com/Serhioromano/bootstrap-calendar).
 
 ### Events
 * [Radio.js](https://github.com/uxder/Radio) - chainable, dependency free Publish/Subscribe. ([Docu](http://radio.uxder.com/documentation.html))
