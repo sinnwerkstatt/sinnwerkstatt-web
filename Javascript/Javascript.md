@@ -100,6 +100,10 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 ### Lists
 * [List.js](https://github.com/javve/list.js) - tiny, invisible and simple, yet powerful and incredibly fast vanilla Javascript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
 
+### Calender
+
+* [CLNDR.js](http://kylestetz.github.io/CLNDR/) - a jQuery Calendar Plugin.
+
 ### Events
 * [Radio.js](https://github.com/uxder/Radio) - chainable, dependency free Publish/Subscribe. ([Docu](http://radio.uxder.com/documentation.html))
 * [minivents](https://github.com/allouis/minivents) - small event system for javascript.
