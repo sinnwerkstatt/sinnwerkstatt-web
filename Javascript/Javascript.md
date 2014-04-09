@@ -100,6 +100,8 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 * [CLNDR.js](http://kylestetz.github.io/CLNDR/) - a jQuery Calendar Plugin.
 * [Bootstrap Calendar](http://bootstrap-calendar.azurewebsites.net/) - a full view calendar based on Twitter Bootstrap, see in [GitHub](https://github.com/Serhioromano/bootstrap-calendar).
 
+* [Cal-heatmap](http://kamisama.github.io/cal-heatmap/) - Cal-Heatmap is a javascript module to create a calendar heatmap.
+
 ## Dates
 
 * [Moment.js](http://momentjs.com/) - a javascript date library for parsing, validating, manipulating, and formatting dates.
