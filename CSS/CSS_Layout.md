@@ -7,6 +7,10 @@
 ## Centering
 * [Absolute Horizontal And Vertical Centering In CSS](http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/)
 
+## Grids
+
+* [Jeet Grid System](http://jeet.gs/) - a grid system for humans.
+
 ## Layouts
 
 ### Two Horizontal Divs
