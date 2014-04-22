@@ -67,6 +67,7 @@ See [CSS Layout](CSS_Layout.md)
 
 ## Number Sliders
 * [bootstrap-slider](http://seiyria.github.io/bootstrap-slider/) - source code at [GitHub](https://github.com/seiyria/bootstrap-slider).
+* [noUiSlider](http://refreshless.com/nouislider/)
 
 ## Image Sliders
 * [Glide.js](http://jedrzejchalubek.com/glide/) - jQuery, OOCSS, Responsive & touch-friendly, CSS3 transitions, Swipe, Keyboard navigation slider.
