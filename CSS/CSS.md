@@ -100,6 +100,7 @@ See [CSS Layout](CSS_Layout.md)
 * [Playing with CSS3 Animations](http://designmodo.com/css3-animations/) - [Demo](http://designmodo.com/demo/css3animations/)
 * [iHover](http://gudh.github.io/ihover/dist/index.html) - impressive hover effects collection, powered by pure CSS3, no dependency, work well with Bootstrap 3.
 * [Motion Ui Design Principles](http://www.beyondkinetic.com/motion-ui-design-principles/2014/4/4/motion-ui-design-principles)
+* [Understanding CSS Timing Functions](http://www.smashingmagazine.com/2014/04/15/understanding-css-timing-functions-2/)
 
 # Performance
 
