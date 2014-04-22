@@ -64,7 +64,13 @@ See [CSS Layout](CSS_Layout.md)
 * [stickUp](http://lirancohen.github.io/stickUp/) - sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
 
 # Sliders
+
+## Number Sliders
+* [bootstrap-slider](http://seiyria.github.io/bootstrap-slider/) - source code at [GitHub](https://github.com/seiyria/bootstrap-slider).
+
+## Image Sliders
 * [Glide.js](http://jedrzejchalubek.com/glide/) - jQuery, OOCSS, Responsive & touch-friendly, CSS3 transitions, Swipe, Keyboard navigation slider.
+
 
 # Forms
 * [jQuery prettyCheckable](http://arthurgouveia.com/prettyCheckable/) - replaces the default checkboxes and radio inputs for better looking ones.
