@@ -54,6 +54,14 @@
 * [Extended Walker class for use with the Twitter Bootstrap toolkit Dropdown menus in Wordpress](https://gist.github.com/johnmegahan/1597994)
 
 
+## Wordpress Themes
+
+### Translation
+
+* [Generating POT file](http://codex.wordpress.org/I18n_for_WordPress_Developers#Generating_a_POT_file)
+* [Use Grunt to create ``*.mo`` file](https://gist.github.com/nikolayhg/11365571)
+
+
 ## Strato Installation
 define('DB_HOST', 'rdbms.strato.de');    // 99% Chance, dass du hier nichts ändern musst.
 
