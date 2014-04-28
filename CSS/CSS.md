@@ -186,6 +186,10 @@ See [CSS Hacks](CSS_Hacks.md).
 * [extractCSS](http://extractcss.com/) - online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet.
 * [Unused CSS](http://unused-css.com/) - find unused CSS online.
 
+# Debug CSS
+
+* [pesticide](http://pesticide.io/) - faster CSS layout debugging.
+
 # Structure
 * [MVCSS](http://mvcss.github.io/) - Sass-based CSS architecture for creating predictable and maintainable application style.
 
