@@ -58,8 +58,9 @@
 
 ### Translation
 
-* [Generating POT file](http://codex.wordpress.org/I18n_for_WordPress_Developers#Generating_a_POT_file)
-* [Use Grunt to create ``*.mo`` file](https://gist.github.com/nikolayhg/11365571)
+* [Generatie POT file](http://codex.wordpress.org/I18n_for_WordPress_Developers#Generating_a_POT_file) from the Wordpress theme.
+* [Use Grunt to create ``*.mo`` file](https://gist.github.com/nikolayhg/11365571) from the ``*.po`` file.
+* Copy ``*.po`` and ``*.mo`` files into ``wp-content/languages/themes``.
 
 
 ## Strato Installation
