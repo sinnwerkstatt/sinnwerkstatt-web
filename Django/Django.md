@@ -61,7 +61,7 @@ On change of the requirements.txt:
 * <ENV> manage.py '''migrate'''
 
 ## Migrations
-See [[Django migrations]].
+See [Django migrations](Django_migrations.md).
 
 ## Email
 See [[Django email]]
