@@ -7,17 +7,17 @@ https://github.com/
 
 ##  GitHub.io
 
-## # Project Pages
+### Project Pages
 See [creating project pages manually](https://help.github.com/articles/creating-project-pages-manually).
 * git add *
 * git commit -a -m "Your message"
 * git push origin gh-pages
 
-## # README
+## README
 * [allowed Emoji emoticons](http://www.emoji-cheat-sheet.com/)
 
 ##  GitHub Tools
 * [Stargazers forks](http://forked.yannick.io/) - find maintained forks of a GitHub repo.
 
-## # Kanban Board for GitHub
+### Kanban Board for GitHub
 * [Huboard](https://huboard.com)
