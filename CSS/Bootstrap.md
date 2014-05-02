@@ -4,3 +4,6 @@
 
 # Templates
 * [Start Bootstrap](http://startbootstrap.com/) - Free HTML Starter Templates for Bootstrap.
+
+# Plugins
+* [virtuosoft - List of Bootstrap plugins](http://www.virtuosoft.eu/code/) - Auto-Hiding Navbar, Color Picker Sliders, TouchSpin, Dual Listbox
