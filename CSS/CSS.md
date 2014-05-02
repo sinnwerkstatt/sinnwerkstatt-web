@@ -67,7 +67,7 @@ See [CSS Layout](CSS_Layout.md)
 
 ## Number Sliders
 * [bootstrap-slider](http://seiyria.github.io/bootstrap-slider/) - source code at [GitHub](https://github.com/seiyria/bootstrap-slider).
-* [noUiSlider](http://refreshless.com/nouislider/)
+* [noUiSlider](http://refreshless.com/nouislider/) - a range slider without bloat. It offers a ton off features, and it is as small, lightweight and minimal as possible, which is great for mobile use on the many supported devices
 
 ## Image Sliders
 * [Glide.js](http://jedrzejchalubek.com/glide/) - jQuery, OOCSS, Responsive & touch-friendly, CSS3 transitions, Swipe, Keyboard navigation slider.
