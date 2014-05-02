@@ -76,6 +76,11 @@ See [CSS Layout](CSS_Layout.md)
 * [Glide.js](http://jedrzejchalubek.com/glide/) - jQuery, OOCSS, Responsive & touch-friendly, CSS3 transitions, Swipe, Keyboard navigation slider.
 
 
+# Spinners
+
+* [Bootstrap TouchSpin](http://www.virtuosoft.eu/code/bootstrap-touchspin/) - a mobile and touch friendly input spinner component for Bootstrap 3. It supports the mousewheel and the up/down keys.
+
+
 # Forms
 * [jQuery prettyCheckable](http://arthurgouveia.com/prettyCheckable/) - replaces the default checkboxes and radio inputs for better looking ones.
 * [jQuery EasyDropDown](http://patrickkunka.github.io/easydropdown/) - a Drop-down Builder for Styleable Inputs and Menus.
