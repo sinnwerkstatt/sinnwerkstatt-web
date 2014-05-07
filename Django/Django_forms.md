@@ -5,7 +5,7 @@
 * [Crispy Forms Documentation](http://django-crispy-forms.readthedocs.org/)
 
 ### Edit ImageField
-How to edit in a user friendly way an ``ImageField``?
+How to edit in a user friendly way an ``ImageField``? No answer found yet.
 
 Research:
 * http://stackoverflow.com/questions/21076248/imagefield-preview-in-crispy-forms-layout
