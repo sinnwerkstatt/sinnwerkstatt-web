@@ -140,6 +140,10 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 
 * [nanoGALLERY](http://nanogallery.brisbois.fr/) - touch enabled, responsive, fast and it supports cloud storage. Featuring multi-level navigation in albums, lightbox, many hover effects on thumbnails, slideshow, fullscreen, pagination, image lazy load, themes, bootstrap compatibility, customizable, i18n, and pulling in Flickr/Picasa/Google+ photo albums among others.
 
+
+### Image Slider
+* [slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need.
+
 ## Text
 
 ### Autocomplete
