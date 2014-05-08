@@ -29,6 +29,7 @@ See [Fonts](../Fonts/Fonts.md)
 
 ## Layout
 * [Circletype.js](http://circletype.labwire.ca/) - set type on a circle.
+* [CurvedText](http://www.olivermusebrink.de/beta/curvedtext/) - this jQuery plugin will align text on any curve.
 
 ## Tooltips
 * [simptip](http://arashm.net/lab/simptip/) - a simple CSS tooltip made with Sass.
