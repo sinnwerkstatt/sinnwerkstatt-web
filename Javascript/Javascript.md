@@ -161,6 +161,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 ### Sliders
 
 * [noUiSlider](http://refreshless.com/nouislider/) - a range slider without bloat. It offers a ton off features, and it is as small, lightweight and minimal as possible, mobile too.
+* [rangeslider.js](http://andreruffert.github.io/rangeslider.js/) - Simple, small and fast JavaScript/jQuery polyfill for the HTML5 ``<input type="range">`` slider element. Supports IE8+.
 
 ## Frameworks
 * AngularJS - JavaScript MVW Framework
