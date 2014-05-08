@@ -10,3 +10,6 @@
 
 # Icons
 * [List of Glyphicons](http://marcoceppi.github.io/bootstrap-glyphicons/)
+
+# Validator
+* [BootstrapValidator](http://bootstrapvalidator.com/) - The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3.
