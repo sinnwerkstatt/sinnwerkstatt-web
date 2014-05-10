@@ -217,6 +217,10 @@ See [CSS Hacks](CSS_Hacks.md).
 # Follow
 * [Webtools weekly](http://webtoolsweekly.com/#archive) - newsletter and archive.
 
+## Videos
+
+* [Front End Ops Conference 2014](https://www.youtube.com/user/frontendopsconf)
+
 # Links
 * [Decoupling HTML From CSS](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
 * [Frameworks of Tomorrow](https://speakerdeck.com/mdo/frameworks-of-tomorrow)
