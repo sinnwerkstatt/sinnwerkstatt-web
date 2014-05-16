@@ -71,6 +71,7 @@ See [CSS Layout](CSS_Layout.md)
 * [noUiSlider](http://refreshless.com/nouislider/) - a range slider without bloat. It offers a ton off features, and it is as small, lightweight and minimal as possible, which is great for mobile use on the many supported devices.
 * [jQuery Number Slider](http://davidrhansen.com/ns/)
 * [Ctl](http://lukeselden.com/projects/ctl/index.html) - slider + number UI Widget, CSS skinnable
+* [Number Progress Bar](http://kalasoo.github.io/NumberProgressBar/)
 
 
 ## Image Sliders
