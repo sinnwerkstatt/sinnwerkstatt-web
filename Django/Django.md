@@ -64,7 +64,7 @@ On change of the requirements.txt:
 See [Django migrations](Django_migrations.md).
 
 ## Email
-See [[Django email]]
+See [Django email](Django_email.md)
 
 ## Templates
 * [Create your own main menu](https://gist.github.com/ngeorgiev/6688779)
