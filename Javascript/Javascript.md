@@ -120,6 +120,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 * [Drop](http://github.hubspot.com/drop/docs/welcome/) - The fast and capable dropdown library.
 * [Draggable Elements That Push Others Out Of Way](http://css-tricks.com/draggable-elements-push-others-way/) - 
 * [GridList](http://ubervu.github.io/grid/) - [GitHub](https://github.com/uberVU/grid) Drag and drop library for a two-dimensional resizable and responsive list of items.
+* [Draggabilly](http://draggabilly.desandro.com/) - Make that shiz draggable. Rad because it supports IE8+ and multi-touch.
 
 ### Navigation
 * [Hopscotch](http://linkedin.github.io/hopscotch/) - Multi-page tours
