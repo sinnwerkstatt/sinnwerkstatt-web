@@ -109,6 +109,9 @@ from __future__ import unicode_literals
 * [django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects.
 * [Transifex](https://www.transifex.com/) - ununterbrochene Lokalisierung, die sich in Ihren Entwicklungsprozess integriert. (paid)
 
+## Logging
+* http://www.dabapps.com/blog/logging-sql-queries-django-13/
+
 ## AJAX
 * http://www.dajaxproject.com/
 
