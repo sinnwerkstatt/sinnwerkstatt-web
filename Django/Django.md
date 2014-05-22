@@ -110,7 +110,7 @@ from __future__ import unicode_literals
 * [Transifex](https://www.transifex.com/) - ununterbrochene Lokalisierung, die sich in Ihren Entwicklungsprozess integriert. (paid)
 
 ## Logging
-* http://www.dabapps.com/blog/logging-sql-queries-django-13/
+* [Logging SQL queries](http://www.dabapps.com/blog/logging-sql-queries-django-13/)
 
 ## AJAX
 * http://www.dajaxproject.com/
