@@ -16,6 +16,7 @@ https://www.jetbrains.com/pycharm/ is a Python and Django IDE
 * [Get out of my way](https://www.youtube.com/watch?v=GEwjDeof1ak) - hide unneeded UI elements.
     * View-> hide the toolbars
 * [File Templates](https://www.youtube.com/watch?v=DvwwbMTK0N8), [Live Templates](https://www.youtube.com/watch?v=ZxaVNGSax80)
+* !!!  [Multiple Cursors and Selections](https://www.youtube.com/watch?v=JBkGOPR3-nA&feature=youtu.be)
 
 ## Django Debugging
 * Settings-> Python interpreters - add the virtualenv python.
