@@ -56,6 +56,8 @@
 
 ## Wordpress Themes
 
+* [Using Grunt with WordPress Themes](http://wptheming.com/2014/05/grunt-wordpress-themes/)
+
 ### Translation
 
 * [Generatie POT file](http://codex.wordpress.org/I18n_for_WordPress_Developers#Generating_a_POT_file) from the Wordpress theme.
