@@ -3,6 +3,7 @@
 ## Create launcher icon
 * ```sudo gnome-desktop-item-edit /usr/share/applications/ --create-new```
 * http://www.howopensource.com/2012/10/create-application-launcher-add-icon-to-unity-ubuntu-12-10/
+* Edit in: ```/usr/share/applications/*.desktop```
 
 ## Screen recording
 
