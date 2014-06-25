@@ -177,6 +177,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 * [scalaApp](http://www.scaleapp.org/) - tiny JavaScript framework for scalable One-Page-Applications / Single-Page-Applications. The framework allows you to easily create complex web applications.
 * [[Meteor]] - open-source platform for building top-quality web apps in a fraction of the time. Syncs automatically client and server models.
 * [Composing a framework from specialised libraries](http://oli.me.uk/2013/07/28/composing-a-framework-from-specialised-libraries/)
+* [Ember.js](http://emberjs.com/) - a framework for creating ambitious web applications. [Ember Tutorial](http://ember.vicramon.com/)
 
 ## Routing
 * [Davis.js](http://davisjs.com/) - Simple, degradable JavaScript routing using HTML5 pushState. ([GitHub](https://github.com/olivernn/davis.js)), ([Examples](http://davisjs.com/examples))
