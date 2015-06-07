@@ -18,6 +18,9 @@ grunt.initConfig({
     }
     // ...
 });
+
+grunt.loadNpmTasks('grunt-contrib-watch'); 
+	
 grunt.registerTask('default', [
     // add all tasks you need including watch
     'watch' 
